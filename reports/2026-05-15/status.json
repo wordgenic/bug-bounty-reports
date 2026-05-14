@@ -1,0 +1,24 @@
+{
+  "generated_at_utc": "2026-05-14T17:32:27Z",
+  "generated_at_wib": "2026-05-15 00:32 WIB",
+  "near": {
+    "bid_status": {
+      "pending": 9,
+      "rejected": 41
+    },
+    "assignment_status": {
+      "submitted": 18
+    },
+    "wallet_balance": "0",
+    "accepted_bids_historical": 18
+  },
+  "memanto_pr": {
+    "state": "open",
+    "merged": false,
+    "mergeable": true,
+    "updated_at": "2026-05-14T00:12:01Z"
+  },
+  "x_metrics": {
+    "status": "unavailable_from_public_endpoint"
+  }
+}
